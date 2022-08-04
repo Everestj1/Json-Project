@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "item":"Bows",
+        "desc":"Learn about Bow and Arrow equipment from the Archery TechXperts at Lancaster Archery Supply. To narrow your search results, shop by Archery Style and find savings on Olympic Recurve Bows, Compound Target Bows, 3D Archery Bows, Recreational Bows, Bowhunting Bows and Traditional Bows.",
+        "price":"Starts from $100",
+        "img":"https://s22301.pcdn.co/wp-content/uploads/hoyt-ventum-33.jpg"
+    },
+    {
+        "id":"2",
+        "item":"Arrows",
+        "desc":"Make Lancaster Archery Supply your Arrow Building headquarters and find savings on Arrow Shafts, Arrow Components and Arrow Making Tools and Supplies. To narrow your search results, shop by Archery Style and select shafts and components matched to Olympic Recurve Bows, Compound Target Bows, 3D Archery Bows, Recreational Bows, Bowhunting Bows and Traditional Bows.",
+        "price":"Starts from $10",
+        "img":"https://i.pinimg.com/originals/77/aa/ab/77aaabab82305e1bdff32c987c846302.jpg"
+    },
+    {
+        "id":"3",
+        "item":"Bow Accessories",
+        "desc":"Look here to find all the accessories you need to complete your bow setup. To narrow your search results, shop by Archery Style and find savings on accessories for Olympic Recurve Bows, Compound Target Bows, 3D Archery Bows, Recreational Bows, Bowhunting Bows and Traditional Bows.",
+        "price":"Start from $5",
+        "img":"https://i.pinimg.com/736x/37/29/94/372994086bd10a4198fb648ee8e61037.jpg"
+    },
+    {
+        "id":"4",
+        "item":"Shooting Accessories",
+        "desc":"Shop for Archery Shooting Gear with the leader in 3D and Target Archery, Lancaster Archery Supply. To narrow your search results for releases, tabs, gloves, quivers, rangefinders and more, shop by Archery Style and find Archery Shooting Equipment specific to Olympic Recurve, Compound Target, 3D Archery, Recreational, Bowhunting or Traditional Archery.",
+        "price":"Start from $5",
+        "img":"https://i.pinimg.com/736x/e1/f1/bf/e1f1bfd11d959ee6a5830900dc7e5bd6.jpg"
+    },
+    {
+        "id":"5",
+        "item":"Targets",
+        "desc":"Find everything you need to setup an Indoor or Outdoor Archery Range at Lancaster Archery Supply. Browse a huge selection of targets and range equipment or narrow your search by Archery Style to find targets specific to Olympic Recurve, Compound Target, 3D Archery, Recreational, Bowhunting or Traditional Archery.",
+        "price":"Start from $50",
+        "img":"https://i.pinimg.com/736x/4a/f3/a4/4af3a4806bed5e3550dccbcf284f5627.jpg"
+    },
+    {
+        "id":"6",
+        "item":"Tools",
+        "desc":"Find specialized Bow Tools from the leader in Archery Equipment, Lancaster Archery Supply. To narrow your search results, shop by Archery Style and discover selection and savings on Archery Tools specific to Olympic Recurve Bows, Compound Target Bows, 3D Archery Bows, Recreational Bows, Bowhunting Bows and Traditional Bows.",
+        "price":"Start from $1",
+        "img":"https://i.pinimg.com/474x/79/8a/bd/798abd1e06425e8e8fef96b61e2bd615.jpg"
+    },
+    {
+        "id":"7",
+        "item":"Training",
+        "desc":"Shop our complete selection of training equipment and instruction materials to get all the gear and information you need to improve your archery practice routine and knowledge.",
+        "price":"Start from $100",
+        "img":"https://i.pinimg.com/originals/c8/0b/bc/c80bbcc135c77ce1ca8efd4e62644a13.gif"
+    },
+    {
+        "id":"8",
+        "item":"Hunting",
+        "desc":"Shop for Hunting Gear with the Bowhunting Leader, Lancaster Archery Supply. Discover selection and savings on Bowhunting Equipment, Camouflage Clothing, Trail Cameras, Scent Control Products and more.",
+        "price":"Start from $10",
+        "img":"https://i.pinimg.com/736x/57/6e/36/576e36b1703426da79a2adb60c9c3426.jpg"
+    }
+]

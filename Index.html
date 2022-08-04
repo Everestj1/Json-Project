@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Boootstrap Links-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="index-featured.js"></script>
+    <script src="index-products.js"></script>
+</head>
+<body>
+    <!--Navigation Bar-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><b>K&Q Archery</b></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!--Navigation Bar End-->
+
+      <!--Carousel-->
+      <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="images/banner.png" class="d-block w-100" style="opacity:0.5;" />
+            <div class="carousel-caption d-block" style="color:black; line-height:5px; transform:rotate(-3deg); margin-bottom:30px;" >
+                <h1><b>King's & Queen's Archery</b></h1>
+                <p><b>Keep Your Head Up</b></p>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      <!--Carousel End-->
+
+      <!--New Arrivals-->
+      <div class="container p-4 mt-5 rounded-3" style="box-shadow:0px 0px 50px black;">
+        <h4 style="margin-left:-15px;">Updated Daily</h4><br />
+        <h1>New Arrivals</h1>
+        <p>Browse this collection of latest and greatest products that have recently been added to our catalog.</p>
+      </div>
+      <!--New Arrival End-->
+
+      <!--Featured Products-->
+      <div class="container-fluid">
+        <div class="btn btn-primary mt-4" style="width:100%;"><h1 class="h1">Featured Products</h1></div>
+        <div id="featured" class="row"></div>
+      </div><br/>
+      <!--Featured Products End-->
+
+      <!--Products & Services-->
+      <div class="container p-4 mt-5 rounded-3" style="box-shadow:0px 0px 50px black;">
+        <h2 style="margin-left:-15px;">Products & Services</h2>
+            <p>Enjoy the savings at Lancaster Archery Supply. Monthly Specials and Current Deals on your favorite archery gear. Specials available on training packages and Services also.</p>
+      </div>
+      <!--Products $ Services End-->
+
+      <!--Products & Services List-->
+      <div class="container-fluid">
+        <div class="btn btn-primary mt-4" style="width:100%;"><h1 class="h1">Products & Services</h1></div>
+        <div id="products" class="row"></div>
+      </div><br /><br />
+      <!--Products & Services List End-->
+
+      <!--Footer-->
+      <footer class="text-center text-white" style="background-color: #21081a;">
+        <!-- Grid container -->
+        <div class="container p-4"></div>
+        <!-- Grid container -->
+      
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+          © 2020 Copyright:
+          <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+        </div>
+        <!-- Copyright -->
+      </footer>
+      <!--Footer End-->
+</body>
+</html>
